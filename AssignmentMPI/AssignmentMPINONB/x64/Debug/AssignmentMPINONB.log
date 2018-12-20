@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AssignmentMPINONB.cpp
+c:\users\martin\documents\ensam\3a\parallel computing\visual\assignmentmpi\assignmentmpinonb\assignmentmpinonb.cpp(12): warning C4101: 'a' : variable locale non référencée
+c:\users\martin\documents\ensam\3a\parallel computing\visual\assignmentmpi\assignmentmpinonb\assignmentmpinonb.cpp(10): warning C4101: 'rc' : variable locale non référencée
+c:\users\martin\documents\ensam\3a\parallel computing\visual\assignmentmpi\assignmentmpinonb\assignmentmpinonb.cpp(10): warning C4101: 'I' : variable locale non référencée
+  AssignmentMPINONB.vcxproj -> C:\Users\Martin\Documents\ENSAM\3A\Parallel computing\Visual\AssignmentMPI\x64\Debug\AssignmentMPINONB.exe

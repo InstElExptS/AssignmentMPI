@@ -1,0 +1,5 @@
+﻿  AssignmentMPI.cpp
+z:\docs\3a\parallel computing\visual\assignmentmpi\assignmentmpi\assignmentmpi\assignmentmpi.cpp(4): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Debug\AssignmentMPI.pch' : No such file or directory
+  stdafx.cpp
+z:\docs\3a\parallel computing\visual\assignmentmpi\assignmentmpi\assignmentmpi\stdafx.cpp(5): fatal error C1083: Impossible d'ouvrir le fichier en-tête précompilé : 'Debug\AssignmentMPI.pch' : No such file or directory
+  Génération de code en cours...
